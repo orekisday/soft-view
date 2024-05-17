@@ -10,3 +10,4 @@
 - python manage.py makemigrations
 - python manage.py migrate
 # Follow the steps from the terminal
+[Figma]([https://pages.github.com/](https://www.figma.com/file/QJZL0cQ1g7aqVEnZHwlgyN/Untitled?type=design&node-id=0%3A1&mode=design&t=E3oBCKfTjT7EVyC5-1))
