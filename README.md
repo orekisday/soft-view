@@ -1,3 +1,8 @@
+# Crypto viewer
+- monitor cryptocurrencies, track price changes and add them to your wishlist
+
+### Follow the steps to run the project on your computer
+
 ## create and activate a virtual environment using
 - (Mac) python3 -m venv [invironment name]
 - source [invironment name]/bin/activate
